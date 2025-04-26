@@ -2693,5 +2693,62 @@
       "Sp. Defense": 0,
       "Speed": 0
     }
+  },
+  {
+    "name": {
+      "french": "alexandre",
+      "english": "",
+      "japanese": "",
+      "chinese": ""
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 0,
+      "Attack": 0,
+      "Defense": 0,
+      "Sp. Attack": 0,
+      "Sp. Defense": 0,
+      "Speed": 0
+    }
+  },
+  {
+    "name": {
+      "french": "alexandre",
+      "english": "",
+      "japanese": "",
+      "chinese": ""
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 0,
+      "Attack": 0,
+      "Defense": 0,
+      "Sp. Attack": 0,
+      "Sp. Defense": 0,
+      "Speed": 0
+    }
+  },
+  {
+    "name": {
+      "french": "alexandre",
+      "english": "",
+      "japanese": "",
+      "chinese": ""
+    },
+    "type": [
+      "Normal"
+    ],
+    "base": {
+      "HP": 0,
+      "Attack": 0,
+      "Defense": 0,
+      "Sp. Attack": 0,
+      "Sp. Defense": 0,
+      "Speed": 0
+    }
   }
 ]
